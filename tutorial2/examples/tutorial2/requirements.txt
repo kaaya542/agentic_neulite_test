@@ -1,4 +1,0 @@
--r ../../requirements.txt
-# BioNet reference simulation and comparison figures for this example.
-neuron==9.0.1
-matplotlib>=3.8,<4
