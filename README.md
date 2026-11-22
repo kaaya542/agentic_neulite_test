@@ -17,8 +17,6 @@ python -m pip install -r requirements.txt
 python tools/run_baseline.py --output _runs/baseline-01
 ```
 
-このリポジトリはprivateのため、cloneにはアクセス権のあるGitHubアカウントでの認証が必要です。
-
 このフォルダで`codex`または`claude`を起動し、目的と参照資料を伝えます。両方で共通の作業方針・スキルを使います。既存のPython環境や外部の参照資料を使う場合は、[環境設定](docs/agent_usage.md#環境準備)を行ってください。
 
 ## 拡張を依頼する例
