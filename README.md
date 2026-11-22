@@ -41,7 +41,6 @@ tutorialへの対応なら、次のように依頼します。
 - [アーキテクチャ](docs/architecture.md)
 - [実例：Kv1_1チャネルの追加](examples/kv1_1/README.md)
 - [テストと検証範囲](docs/testing.md)
-- [配布するソースと検証用コピー](docs/repository.md)
 
 [v1.0.0](VERSION) · Neulite / bionetlite [1.2.0](upstream.json)
 
