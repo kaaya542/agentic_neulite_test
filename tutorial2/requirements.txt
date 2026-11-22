@@ -1,0 +1,7 @@
+# Python dependencies for BMTK/bionetlite input generation.
+# MPI remains an optional BMTK dependency.
+bmtk==1.1.3
+numpy>=1.26,<3
+pandas>=2,<3
+h5py>=3.10
+scikit-learn>=1.5

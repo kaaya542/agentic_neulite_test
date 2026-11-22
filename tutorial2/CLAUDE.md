@@ -1,0 +1,3 @@
+# Agentic Neulite
+
+@AGENTS.md

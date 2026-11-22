@@ -1,0 +1,4 @@
+-r ../../requirements.txt
+# Independent MOD reference and result figures for this example.
+neuron==9.0.1
+matplotlib>=3.8,<4
